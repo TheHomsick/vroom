@@ -1,0 +1,33 @@
+{
+  "summary": {
+    "title": "asdsadsad",
+    "owner": "sdsa",
+    "description": "asdasd"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "ho"
+      },
+      {
+        "name": "sadsa"
+      },
+      {
+        "name": "asdsad"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "dsad",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "asdsadasdasd",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
+    "reviewer": "asdsad"
+  }
+}
