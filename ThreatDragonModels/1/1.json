@@ -1,10 +1,18 @@
 {
   "summary": {
     "title": "1",
-    "owner": ""
+    "owner": "asd",
+    "description": "asd"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "asdasdasd",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "asd"
   }
 }
